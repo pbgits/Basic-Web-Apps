@@ -14,5 +14,5 @@ This repository contains beginner-friendly **HTML, CSS, and JavaScript** project
 ## 🛠 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Basic-Web-Projects.git
+   git clone https://github.com/your-username/Basic-Web-Apps.git
 
